@@ -1,1 +1,3 @@
 my first git activity
+This line was added from the cloned folder
+
